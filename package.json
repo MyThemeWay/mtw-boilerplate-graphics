@@ -1,0 +1,23 @@
+{
+  "name": "mtw-boilerplate-canvas",
+  "author": "Sitdisch",
+  "version": "0.0.1",
+  "description": "A boilerplate for developing WebGL canvas bundles quickly and easily. Minimized bundles can then be used as an animated 3D website background.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mythemeway/mtw-boilerplate-canvas"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node dev.config.js",
+    "build": "node pro.config.js",
+    "terser": "node pro.config.js 1"
+  },
+  "dependencies": {
+    "@sitdisch/esbuild-plugin-glslx": "0.0.4",
+    "esbuild": "0.14.25",
+    "terser": "5.12.0",
+    "three": "0.138.3",
+    "twgl.js": "4.21.2"
+  }
+}

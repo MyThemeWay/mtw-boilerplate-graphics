@@ -1,0 +1,5 @@
+node_modules
+canvas.bundle.min.js
+:w
+*~
+*.swp
