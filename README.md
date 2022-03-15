@@ -12,11 +12,11 @@
 </div>
 <hr>
 
-This boilerplate enables you to develop quickly and easily WebGL canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can embed this bundle as an animated 3D background on a website, for example.
+This boilerplate enables you to develop quickly and easily WebGL canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can embed this bundle as a 3D animated background on a website, for example.
 
 In <a title="Go there" href="#run-development-mode" >development mode</a>, the GLSLX shader files are watched. That means, if you edit them and save your changes, the shaders will be recompiled and reloaded immediately. Feel free to adapt the existing shaders or create a completely new one. If you need inspiration, check out [Shadertoy](https://www.shadertoy.com/browse "Go there") or [GLSL Sandbox](https://glslsandbox.com/ "Go there") for fragment shaders and [Vertexshaderart](https://www.vertexshaderart.com/gallery/1?sort=popular "Go there") for vertex shaders. There you can see what's possible.
 
-If you don't need this boilerplate but would like to embed the already minimized canvas bundles directly on a website, see the following.
+If you don't need this boilerplate but would like to embed the already minimized canvas bundles directly on your website, see the following.
 
 ## | Canvas Bundle Usage
 
@@ -66,15 +66,15 @@ https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-
 #### with [jsDelivr](https://github.com/jsdelivr/jsdelivr "Check it out")
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
 <canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
+<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
 ```
 
 #### self hosting
 
 ```html
-<script src="./canvas.bundle.min.js"></script>
 <canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
+<script src="./canvas.bundle.min.js"></script>
 ```
 
 > <b>Note</b>: WebGL canvases can make your CPU sweat. For the environment, stop the requestAnimationFrame loop when the canvas isn't visible <b>#GreenCoding</b>. See my [website-boilerplate](https://github.com/MyThemeWay/Dark-Particle/blob/master/src/canvas/mtw-canvas-disks/main.js "Check it out") for an example.
@@ -94,31 +94,31 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 <tr align="center">
 	<th><a href="https://github.com/greggman/twgl.js" title="Check it out" target="_blank">TWGL</a></th>
 	<td >
-		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen" /></a>
 	</td>
 </tr>
 <tr align="center">
 	<th><a href="https://github.com/mrdoob/three.js" title="Check it out" target="_blank">three.js</a></th>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred" /></a>
 	</td>
 </tr>
 </table>
@@ -126,6 +126,8 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 > <b>Note</b>: Badges are clickable and linked to the corresponding minimized bundle.
 
 ## | Feature Overview
+
+### [Branch: master](https://github.com/MyThemeWay/mtw-boilerplate-canvas/tree/master "Check it out")
 
 <a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/badge/Node.js-16.14.0-blue.svg?logo=node.js"/></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-canvas/esbuild?label=esbuild&logo=esbuild" /></a>
