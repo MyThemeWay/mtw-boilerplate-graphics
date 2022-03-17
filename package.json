@@ -14,7 +14,7 @@
     "terser": "node pro.config.js 1"
   },
   "dependencies": {
-    "@sitdisch/esbuild-plugin-glslx": "0.0.4",
+    "@sitdisch/esbuild-plugin-glslx": "0.0.6",
     "esbuild": "0.14.27",
     "terser": "5.12.1",
     "three": "0.138.3",

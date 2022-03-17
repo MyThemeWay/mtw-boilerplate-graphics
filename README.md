@@ -87,8 +87,8 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 <tr>
 	<th>Bundle Sizes</th>
 	<th><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Check it out" target="_blank">malachite</a></th>
-	<th><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Check it out" target="_blank">disks</a></th>
-	<th><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Check it out" target="_blank">spiral</a></th>
+	<th><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Check it out" target="_blank">__disks__</a></th>
+	<th><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Check it out" target="_blank">__spiral__</a></th>
 	<th><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Check it out" target="_blank">blacksea</a></th>
 </tr>
 <tr align="center">
@@ -129,7 +129,7 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 
 ### [Branch: master](https://github.com/MyThemeWay/mtw-boilerplate-canvas/tree/master "Check it out")
 
-<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/badge/Node.js-16.14.0-blue.svg?logo=node.js"/></a>
+<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/badge/Node.js-16.14.1-blue.svg?logo=node.js"/></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-canvas/esbuild?label=esbuild&logo=esbuild" /></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/three"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-canvas/three?label=three.js&logo=three.js" /></a>
 <a href="https://www.npmjs.com/package/twgl.js" title="Check it out" target="_blank"><img height="26" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/TWGL--blue.svg"/></a>
@@ -179,12 +179,12 @@ To enable local operation of this boilerplate, you can do the following:
 	source ~/$MYSTARTUPFILE
 	```
 3. if your terminal has closed, open it again and continue
-4. execute `nvm install 16.14.0` to install [Node.js](https://nodejs.org/en/ "Go there")
+4. execute `nvm install 16.14.1` to install [Node.js](https://nodejs.org/en/ "Go there")
 5. clone the repository `git clone https://github.com/mythemeway/mtw-boilerplate-canvas` or your fork to your local machine
 6. change your current directory to mtw-boilerplate-canvas `cd mtw-boilerplate-canvas`
 7. run `npm install`
 
-> <b>Note</b>: If you've already installed [Node.js v16.14.0](https://nodejs.org/en/ "Go there") you only have to do steps 5-7.
+> <b>Note</b>: If you've already installed [Node.js v16.14.1](https://nodejs.org/en/ "Go there") you only have to do steps 5-7.
 
 That's it.
 
