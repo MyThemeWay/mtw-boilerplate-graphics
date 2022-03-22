@@ -1,11 +1,11 @@
 {
-  "name": "mtw-boilerplate-canvas",
+  "name": "mtw-boilerplate-graphics",
   "author": "Sitdisch",
   "version": "0.0.1",
   "description": "A boilerplate for developing WebGL canvas bundles quickly and easily. Minimized bundles can then be used as an animated 3D website background.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mythemeway/mtw-boilerplate-canvas"
+    "url": "https://github.com/mythemeway/mtw-boilerplate-graphics"
   },
   "license": "MIT",
   "scripts": {

@@ -1,4 +1,4 @@
-/*! MTW-BOILERPLATE-CANVAS: DEV.CONFIG.JS
+/*! MTW-BOILERPLATE-GRAPHICS: DEV.CONFIG.JS
  * 
  * Author: sitdisch
  * Source: https://github.com/mythemeway
@@ -101,7 +101,7 @@ const server = createServer((req, res) => {
           <head>
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <link rel="shortcut icon" href="#">
-            <title>mtw-esbuild-canvas</title>
+            <title>mtw-boilerplate-graphics</title>
             <style>
               body {
                 margin: 0;

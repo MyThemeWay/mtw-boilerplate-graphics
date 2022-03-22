@@ -1,4 +1,4 @@
-/*! MTW-BOILERPLATE-CANVAS: PRO.CONFIG.JS
+/*! MTW-BOILERPLATE-GRAPHICS: PRO.CONFIG.JS
  * 
  * Author: sitdisch
  * Source: https://github.com/mythemeway
