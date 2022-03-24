@@ -22,7 +22,7 @@ import { createProgramInfo, createBufferInfoFromArrays, resizeCanvasToDisplaySiz
 import { fragmentShader, vertexShader, renaming } from './shaders.glslx';
 
 (() => {
-  const canvas = document.getElementById("mtw-canvas");
+  const canvas = document.getElementById(MTW_CANVAS_ID);
   
   canvas.style.backgroundColor="black";
   

@@ -22,7 +22,7 @@ import { WebGLRenderer, OrthographicCamera, Scene, PlaneGeometry, ShaderMaterial
 import { fragmentShader as fs, renaming } from './shaders.glslx';
 
 (() => {
-  const canvas = document.getElementById("mtw-canvas");
+  const canvas = document.getElementById(MTW_CANVAS_ID);
   
   canvas.style.backgroundColor="black";
   

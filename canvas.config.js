@@ -7,17 +7,20 @@
  */
 
 // 
-// Canvas Settings: path to canvas (p2c) & GLSL preprocessing (prepr)
-// 
+// CANVAS SETTINGS
+//  - path:  path to canvas
+//  - prepr: GLSL preprocessing
+//  - id:    canvas id attribute
+//  
 
 // TWGL
 //
-const canvas = { p2c: './src/twgl/mtw-canvas-disks', prepr: null };
-// const canvas = { p2c: './src/twgl/mtw-canvas-malachite', prepr: {} };
+const canvas = { path: './src/twgl/mtw-canvas-disks', prepr: null, id: 'mtw-canvas' };
+// const canvas = { path: './src/twgl/mtw-canvas-malachite', prepr: {}, id: 'mtw-canvas' };
 
 // three.js
 // 
-// const canvas = { p2c: './src/three/mtw-canvas-disks', prepr: null };
-// const canvas = { p2c: './src/three/mtw-canvas-malachite', prepr: {} };
+// const canvas = { path: './src/three/mtw-canvas-disks', prepr: null, id: 'mtw-canvas' };
+// const canvas = { path: './src/three/mtw-canvas-malachite', prepr: {}, id: 'mtw-canvas' };
 
 module.exports = canvas;

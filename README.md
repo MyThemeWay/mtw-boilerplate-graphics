@@ -209,22 +209,27 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 2. change `const canvas` and save it
 	```js
 	// 
-	// Canvas Settings: path to canvas (p2c) & GLSL preprocessing (prepr)
+	// CANVAS SETTINGS
+	//  - path:  path to canvas
+	//  - prepr: GLSL preprocessing
+	//  - id:    canvas id attribute
 	// 
 
 	// TWGL
 	//
-	// const canvas = { p2c: './src/twgl/mtw-canvas-disks', prepr: null };
-	// const canvas = { p2c: './src/twgl/mtw-canvas-malachite', prepr: {} };
-	// const canvas = { p2c: './src/twgl/mtw-canvas-blacksea', prepr: {} };
-	// const canvas = { p2c: './src/twgl/mtw-canvas-spiral', prepr: null };
+	// const canvas = { path: './src/twgl/mtw-canvas-disks', prepr: null, id: 'mtw-canvas' };
+	// const canvas = { path: './src/twgl/mtw-canvas-malachite', prepr: {}, id: 'mtw-canvas' };
+	// const canvas = { path: './src/twgl/mtw-canvas-blacksea', prepr: {}, id: 'mtw-canvas' };
+	// const canvas = { path: './src/twgl/mtw-canvas-spiral', prepr: null, id: 'mtw-canvas' };
 
 	// three.js
 	// 
-	// const canvas = { p2c: './src/three/mtw-canvas-disks', prepr: null };
-	const canvas = { p2c: './src/three/mtw-canvas-malachite', prepr: {} };
-	// const canvas = { p2c: './src/three/mtw-canvas-blacksea', prepr: {} };
-	// const canvas = { p2c: './src/three/mtw-canvas-spiral', prepr: null };
+	// const canvas = { path: './src/three/mtw-canvas-disks', prepr: null, id: 'mtw-canvas' };
+	const canvas = { path: './src/three/mtw-canvas-malachite', prepr: {}, id: 'mtw-canvas' };
+	// const canvas = { path: './src/three/mtw-canvas-blacksea', prepr: {}, id: 'mtw-canvas' };
+	// const canvas = { path: './src/three/mtw-canvas-spiral', prepr: null, id: 'mtw-canvas' };
+	
+	module.exports = canvas;
 	```
 
 ### Add Canvas
@@ -233,27 +238,34 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 2. follow the <a title="Go there" href="#switch-canvas" >switch canvas</a>  procedure
 	```js
 	// 
-	// Canvas Settings: path to canvas (p2c) & GLSL preprocessing (prepr)
+	// CANVAS SETTINGS
+	//  - path:  path to canvas
+	//  - prepr: GLSL preprocessing
+	//  - id:    canvas id attribute
 	// 
 
 	// TWGL
 	//
-	// const canvas = { p2c: './src/twgl/mtw-canvas-disks', prepr: null };
-	// const canvas = { p2c: './src/twgl/mtw-canvas-malachite', prepr: {} };
+	// const canvas = { path: './src/twgl/mtw-canvas-disks', prepr: null, id: 'mtw-canvas' };
+	// const canvas = { path: './src/twgl/mtw-canvas-malachite', prepr: {}, id: 'mtw-canvas' };
 	const canvas = {
-		p2c: './src/twgl/mtw-canvas-new',
+		path: './src/twgl/mtw-canvas-new',
 		prepr: {
 			myVar: 1,
 			myMacro: function (arg) { return arg; }
-		}
+		},
+		id: 'mtw-canvas'
 	};
-	// const canvas = { p2c: './src/twgl/mtw-canvas-blacksea', prepr: {} };
-	// const canvas = { p2c: './src/twgl/mtw-canvas-spiral', prepr: null };
+	// const canvas = { path: './src/twgl/mtw-canvas-blacksea', prepr: {}, id: 'mtw-canvas' };
+	// const canvas = { path: './src/twgl/mtw-canvas-spiral', prepr: null, id: 'mtw-canvas' };
+	
+	module.exports = canvas;
 	```
 
 ### Note:
-> * `mtw-canvas-new` must have a `main.js` file
-> * to customize the fragment and/or vertex shaders, modify the `shaders.glslx` files
+> * `mtw-canvas-new` must have a <b>main.js</b> file
+> * your <b>canvas ID attribute (id)</b> setting is only used in production mode; in development mode it is always the default `mtw-canvas`
+> * to customize the fragment and/or vertex shaders, modify the <b>shaders.glslx</b> files
 > * [mtw-canvas-disks](https://github.com/MyThemeWay/mtw-canvas-disks "Get it") <b>[included] [default]</b>; Fragment shader is based on [CoordSys - intersection](https://www.shadertoy.com/view/lsfGDB "Check it out") [License: [MIT](https://www.shadertoy.com/view/lsfGDB "Go there"); Copyright: ©️ 2013 Inigo Quilez; Changes: made]
 > * [mtw-canvas-malachite](https://github.com/MyThemeWay/mtw-canvas-malachite "Get it") <b>[included]</b>; Fragment shader is based on [Glare of water](https://www.shadertoy.com/view/ttSGz3 "Check it out") [License: [CC&nbsp;BY&nbsp;3.0](https://www.shadertoy.com/view/ttSGz3 "Go there"); Copyright: ©️ 2019 Jan Mróz; Changes: made]
 > * [mtw-canvas-spiral](https://github.com/MyThemeWay/mtw-canvas-spiral "Get it") and [mtw-canvas-blacksea](https://github.com/MyThemeWay/mtw-canvas-blacksea "Get it") <b>[not included]</b>; you have to add them manually

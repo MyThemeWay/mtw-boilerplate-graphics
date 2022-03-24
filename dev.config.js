@@ -23,12 +23,13 @@ const addErrDiv = `
 
 async function buildCmd() {
   return build({
-    entryPoints: [`${canvas.p2c}/main.js`],
+    entryPoints: [`${canvas.path}/main.js`],
     outfile: './canvas.bundle.js',
     logLevel: 'info',
     bundle: true,
     write: false,
     metafile: true,
+    define: { MTW_CANVAS_ID: '"mtw-canvas"' },
     
     plugins: [
       glslxPlugin({

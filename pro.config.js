@@ -17,13 +17,14 @@ const { basename } = require('path');
 console.log("[\x1b[90mesbuild\x1b[0m]: starting `\x1b[36mproduction-mode\x1b[0m`...")
 
 build({
-  entryPoints: [`${canvas.p2c}/main.js`],
+  entryPoints: [`${canvas.path}/main.js`],
   outfile: './dist/canvas.bundle.min.js',
   logLevel: 'info',
   bundle: true,
   write: ((!(argv[2])) ? true : false),
   minify: true,
   metafile: true,
+  define: { MTW_CANVAS_ID: `'${canvas.id}'` },
   
   plugins: [
     glslxPlugin({
