@@ -17,7 +17,7 @@
     "@sitdisch/esbuild-plugin-glslx": "0.0.6",
     "esbuild": "0.14.27",
     "terser": "5.12.1",
-    "three": "0.138.3",
+    "three": "0.139.0",
     "twgl.js": "4.21.2"
   }
 }
