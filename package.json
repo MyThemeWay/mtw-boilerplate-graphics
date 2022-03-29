@@ -2,7 +2,7 @@
   "name": "mtw-boilerplate-graphics",
   "author": "Sitdisch",
   "version": "0.0.1",
-  "description": "A boilerplate for developing WebGL canvas bundles quickly and easily. Minimized bundles can then be used as an animated 3D website background.",
+  "description": "Combo of esbuild, GLSLX, three.js... to quickly and easily develop/build WebGL canvas bundles. Minimized bundles can be used as 3D animated backgrounds on a website",
   "repository": {
     "type": "git",
     "url": "https://github.com/mythemeway/mtw-boilerplate-graphics"
@@ -15,9 +15,9 @@
   },
   "dependencies": {
     "@sitdisch/esbuild-plugin-glslx": "0.0.6",
-    "esbuild": "0.14.27",
+    "esbuild": "0.14.28",
     "terser": "5.12.1",
-    "three": "0.138.3",
-    "twgl.js": "4.21.2"
+    "three": "0.139.0",
+    "twgl.js": "4.22.0"
   }
 }

@@ -24,16 +24,16 @@ If you don't need this boilerplate but would like to embed the already minimized
 
 <table>
 <tr>
-<td align="center">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars & Forks of Malachite Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a></div>
+<td align="center" width="400px">
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Forks of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite#embed-via-jsdelivr" title="jsDelivr Hits of Malachite Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-malachite?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-a476-af80bdd41b63.mp4
 
 <div><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Explore Malachite Header" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img></div>
 
 </td>
-<td align="center">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars & Forks of Disks Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a></div>
+<td align="center" width="400px">
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Forks of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks#embed-via-jsdelivr" title="jsDelivr Hits of Disks Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-disks?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-9f4d-d847e66e0063.mp4
 
@@ -42,16 +42,16 @@ https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-
 </td>
 </tr>
 <tr>
-<td align="center">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars & Forks of Spiral Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a></div>
+<td align="center" width="400px">
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Forks of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral#embed-via-jsdelivr" title="jsDelivr Hits of Spiral Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-spiral?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-a2ee-ed448e85ff00.mp4
 
 <div><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Explore Spiral Header" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img></div>
 
 </td>
-<td align="center">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars & Forks of Blacksea Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a></div>
+<td align="center" width="400px">
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Forks of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea#embed-via-jsdelivr" title="jsDelivr Hits of Blacksea Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-blacksea?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-8178-07a551a7672f.mp4
 
@@ -129,12 +129,12 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 
 ### [Branch: master](https://github.com/MyThemeWay/mtw-boilerplate-graphics/tree/master "Check it out")
 
-<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/badge/Node.js-16.14.2-blue.svg?logo=node.js"/></a>
+<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json"/></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/esbuild?label=esbuild&logo=esbuild" /></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/three"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/three?label=three.js&logo=three.js" /></a>
-<a href="https://www.npmjs.com/package/twgl.js" title="Check it out" target="_blank"><img height="26" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/TWGL--blue.svg"/></a>
-<a href="https://www.npmjs.com/package/glslx" title="Check it out" target="_blank"><img height="26" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/GLSLX--blue.svg"/></a>
-<a href="https://www.npmjs.com/package/prepr" title="Check it out" target="_blank"><img height="26" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/prepr--blue.svg"/></a>
+<a href="https://www.npmjs.com/package/twgl.js" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/twgl.js?label=TWGL"/></a>
+<a href="https://www.npmjs.com/package/glslx" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/glslx?label=GLSLX"/></a>
+<a href="https://www.npmjs.com/package/prepr" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/prepr?label=prepr"/></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/terser"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/terser?label=terser" /></a>
 
 ### Note:
@@ -179,12 +179,12 @@ To enable local operation of this boilerplate, you can do the following:
 	source ~/$MYSTARTUPFILE
 	```
 3. if your terminal has closed, open it again and continue
-4. execute `nvm install 16.14.2` to install [Node.js](https://nodejs.org/en/ "Go there")
+4. execute <a href="https://nodejs.org/en/" title="Explore this" target="_blank"><img alt="nvm install --lts" height="25" align="top" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&color=343941&labelColor=343941&label=nvm install&logo='"/></a> to install [Node.js](https://nodejs.org/en/ "Go there")
 5. clone the repository `git clone https://github.com/mythemeway/mtw-boilerplate-graphics` or your fork to your local machine
 6. change your current directory to mtw-boilerplate-graphics `cd mtw-boilerplate-graphics`
 7. run `npm install`
 
-> <b>Note</b>: If you've already installed [Node.js v16.14.2](https://nodejs.org/en/ "Go there") you only have to do steps 5-7.
+> <b>Note</b>: If you've already installed <a href="https://nodejs.org/en/" title="Explore this" target="_blank"><img alt="Node.js LTS" height="25" align="top" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&color=343941&labelColor=343941"/></a> you only have to do steps 5-7.
 
 That's it.
 
@@ -264,7 +264,7 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 
 ### Note:
 > * `mtw-canvas-new` must have a <b>main.js</b> file
-> * your <b>canvas ID attribute (id)</b> setting is only used in production mode; in development mode it is always the default `mtw-canvas`
+> * your <b>canvas id attribute (id)</b> setting is only used in production mode; in development mode it is always the default `mtw-canvas`
 > * to customize the fragment and/or vertex shaders, modify the <b>shaders.glslx</b> files
 > * [mtw-canvas-disks](https://github.com/MyThemeWay/mtw-canvas-disks "Get it") <b>[included] [default]</b>; Fragment shader is based on [CoordSys - intersection](https://www.shadertoy.com/view/lsfGDB "Check it out") [License: [MIT](https://www.shadertoy.com/view/lsfGDB "Go there"); Copyright: ©️ 2013 Inigo Quilez; Changes: made]
 > * [mtw-canvas-malachite](https://github.com/MyThemeWay/mtw-canvas-malachite "Get it") <b>[included]</b>; Fragment shader is based on [Glare of water](https://www.shadertoy.com/view/ttSGz3 "Check it out") [License: [CC&nbsp;BY&nbsp;3.0](https://www.shadertoy.com/view/ttSGz3 "Go there"); Copyright: ©️ 2019 Jan Mróz; Changes: made]
