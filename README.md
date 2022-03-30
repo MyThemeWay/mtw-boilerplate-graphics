@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/repo-size/mythemeway/mtw-boilerplate-graphics?label=RepoSize" />
 <a title="Check it out" target="_blank" href="https://github.com/mythemeway/mtw-boilerplate-graphics/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/mythemeway/mtw-boilerplate-graphics?label=License&color=2A2E30" /></a>
 <a title="Check it out" target="_blank" href="https://github.com/mythemeway/mtw-boilerplate-graphics/releases"><img src="https://img.shields.io/github/v/release/mythemeway/mtw-boilerplate-graphics?label=LastRelease" /></a><br>
-<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics"><img src="https://img.shields.io/badge/Snyk-Vulnerabilities-2A2E30.svg?logo=snyk" /></a><br>
+<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics"><img alt="Snyk Vulnerabilities" src="https://img.shields.io/badge/Snyk-Vulnerabilities-2A2E30.svg?logo=snyk" /></a><br>
 <a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics"><img loading="eager" alt="&nbsp;pending..." height="25" src="https://img.shields.io/snyk/vulnerabilities/github/MyThemeWay/mtw-boilerplate-graphics?label=&cacheSeconds=maxAge" /></a><br>
 <b>Full Report: <a title="Check it out" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics">Last&nbsp;One</a></b><br>
 </div>
@@ -129,13 +129,13 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 
 ### [Branch: master](https://github.com/MyThemeWay/mtw-boilerplate-graphics/tree/master "Check it out")
 
-<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json"/></a>
-<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/esbuild?label=esbuild&logo=esbuild" /></a>
-<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/three"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/three?label=three.js&logo=three.js" /></a>
-<a href="https://www.npmjs.com/package/twgl.js" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/twgl.js?label=TWGL"/></a>
-<a href="https://www.npmjs.com/package/glslx" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/glslx?label=GLSLX"/></a>
-<a href="https://www.npmjs.com/package/prepr" title="Check it out" target="_blank"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/prepr?label=prepr"/></a>
-<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/terser"><img height="26" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/terser?label=terser" /></a>
+<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" alt="Node.js" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json"/></a>
+<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" alt="esbuild" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/esbuild?label=esbuild&logo=esbuild" /></a>
+<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/three"><img height="26" alt="three.js" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/three?label=three.js&logo=three.js" /></a>
+<a href="https://www.npmjs.com/package/twgl.js" title="Check it out" target="_blank"><img height="26" alt="TWGL" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/twgl.js?label=TWGL"/></a>
+<a href="https://www.npmjs.com/package/glslx" title="Check it out" target="_blank"><img height="26" alt="GLSLX" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/glslx?label=GLSLX"/></a>
+<a href="https://www.npmjs.com/package/prepr" title="Check it out" target="_blank"><img height="26" alt="prepr" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/prepr?label=prepr"/></a>
+<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/terser"><img height="26" alt="terser" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/terser?label=terser" /></a>
 
 ### Note:
 >	* [GLSLX](https://www.npmjs.com/package/glslx "Check it out") & [prepr](https://www.npmjs.com/package/prepr "Check it out") are integrated via [esbuild-plugin-glslx](https://www.npmjs.com/package/@sitdisch/esbuild-plugin-glslx "Check it out")
@@ -264,7 +264,7 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 
 ### Note:
 > * `mtw-canvas-new` must have a <b>main.js</b> file
-> * your <b>canvas id attribute (id)</b> setting is only used in production mode; in development mode it is always the default `mtw-canvas`
+> * your <b>canvas id attribute </b> setting is only used in production mode; in development mode it is always the default `mtw-canvas`
 > * to customize the fragment and/or vertex shaders, modify the <b>shaders.glslx</b> files
 > * [mtw-canvas-disks](https://github.com/MyThemeWay/mtw-canvas-disks "Get it") <b>[included] [default]</b>; Fragment shader is based on [CoordSys - intersection](https://www.shadertoy.com/view/lsfGDB "Check it out") [License: [MIT](https://www.shadertoy.com/view/lsfGDB "Go there"); Copyright: ©️ 2013 Inigo Quilez; Changes: made]
 > * [mtw-canvas-malachite](https://github.com/MyThemeWay/mtw-canvas-malachite "Get it") <b>[included]</b>; Fragment shader is based on [Glare of water](https://www.shadertoy.com/view/ttSGz3 "Check it out") [License: [CC&nbsp;BY&nbsp;3.0](https://www.shadertoy.com/view/ttSGz3 "Go there"); Copyright: ©️ 2019 Jan Mróz; Changes: made]
