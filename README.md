@@ -1,13 +1,13 @@
 <div align='center'>
 <h1>MTW-BOILERPLATE-GRAPHICS</h1>
 <img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-graphics.gif?raw=true"/><br>
-<a href="https://github.com/mythemeway/mtw-boilerplate-graphics/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/mythemeway/mtw-boilerplate-graphics/CodeQL?logo=github&label=CodeQL" /></a>
-<img src="https://img.shields.io/github/languages/code-size/mythemeway/mtw-boilerplate-graphics?label=CodeSize" /><br>
-<img src="https://img.shields.io/github/repo-size/mythemeway/mtw-boilerplate-graphics?label=RepoSize" />
-<a title="Check it out" target="_blank" href="https://github.com/mythemeway/mtw-boilerplate-graphics/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/mythemeway/mtw-boilerplate-graphics?label=License&color=2A2E30" /></a>
-<a title="Check it out" target="_blank" href="https://github.com/mythemeway/mtw-boilerplate-graphics/releases"><img src="https://img.shields.io/github/v/release/mythemeway/mtw-boilerplate-graphics?label=LastRelease" /></a><br>
-<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics"><img alt="Snyk Vulnerabilities" src="https://img.shields.io/badge/Snyk-Vulnerabilities-2A2E30.svg?logo=snyk" /></a><br>
-<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics"><img loading="eager" alt="&nbsp;pending..." height="25" src="https://img.shields.io/snyk/vulnerabilities/github/MyThemeWay/mtw-boilerplate-graphics?label=&cacheSeconds=maxAge" /></a><br>
+<a href="https://github.com/mythemeway/mtw-boilerplate-graphics/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/mythemeway/mtw-boilerplate-graphics/CodeQL?logo=github&label=CodeQL&cacheSeconds=3600" /></a>
+<img src="https://img.shields.io/github/languages/code-size/mythemeway/mtw-boilerplate-graphics?label=CodeSize&cacheSeconds=3600" /><br>
+<img src="https://img.shields.io/github/repo-size/mythemeway/mtw-boilerplate-graphics?label=RepoSize&cacheSeconds=3600" />
+<a title="Check it out" target="_blank" href="https://github.com/mythemeway/mtw-boilerplate-graphics/blob/main/LICENSE.txt"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/License-MIT.svg" /></a>
+<a title="Check it out" target="_blank" href="https://github.com/mythemeway/mtw-boilerplate-graphics/releases"><img src="https://img.shields.io/github/v/release/mythemeway/mtw-boilerplate-graphics?label=LastRelease&cacheSeconds=3600" /></a><br>
+<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics"><img alt="Snyk Vulnerabilities" src="https://img.shields.io/badge/Snyk-Vulnerabilities-2A2E30.svg?logo=snyk&cacheSeconds=3600" /></a><br>
+<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics"><img loading="eager" alt="&nbsp;pending..." height="25" src="https://img.shields.io/snyk/vulnerabilities/github/MyThemeWay/mtw-boilerplate-graphics?label=&cacheSeconds=3600" /></a><br>
 <b>Full Report: <a title="Check it out" target="_blank" href="https://snyk.io/test/github/MyThemeWay/mtw-boilerplate-graphics">Last&nbsp;One</a></b><br>
 </div>
 <hr>
@@ -25,7 +25,7 @@ If you don't need this boilerplate but would like to embed the already minimized
 <table>
 <tr>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Forks of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite#embed-via-jsdelivr" title="jsDelivr Hits of Malachite Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-malachite?label=Hits&color=blue&logo=jsdelivr" /></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Forks of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite#embed-via-jsdelivr" title="jsDelivr Hits of Malachite Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-malachite?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-a476-af80bdd41b63.mp4
 
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-
 
 </td>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Forks of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks#embed-via-jsdelivr" title="jsDelivr Hits of Disks Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-disks?label=Hits&color=blue&logo=jsdelivr" /></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Forks of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks#embed-via-jsdelivr" title="jsDelivr Hits of Disks Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-disks?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-9f4d-d847e66e0063.mp4
 
@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-
 </tr>
 <tr>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Forks of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral#embed-via-jsdelivr" title="jsDelivr Hits of Spiral Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-spiral?label=Hits&color=blue&logo=jsdelivr" /></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Forks of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral#embed-via-jsdelivr" title="jsDelivr Hits of Spiral Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-spiral?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-a2ee-ed448e85ff00.mp4
 
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-
 
 </td>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Forks of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea#embed-via-jsdelivr" title="jsDelivr Hits of Blacksea Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-blacksea?label=Hits&color=blue&logo=jsdelivr" /></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Forks of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label=&cacheSeconds=3600"/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea#embed-via-jsdelivr" title="jsDelivr Hits of Blacksea Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-blacksea?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-8178-07a551a7672f.mp4
 
@@ -94,31 +94,31 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 <tr align="center">
 	<th><a href="https://github.com/greggman/twgl.js" title="Check it out" target="_blank">TWGL</a></th>
 	<td >
-		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=3600" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=3600" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=3600" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/twgl/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/twgl/canvas.bundle.min.js?label=&color=brightgreen&cacheSeconds=3600" /></a>
 	</td>
 </tr>
 <tr align="center">
 	<th><a href="https://github.com/mrdoob/three.js" title="Check it out" target="_blank">three.js</a></th>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-malachite/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-malachite/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=3600" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-disks/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-disks/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=3600" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-spiral/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-spiral/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=3600" /></a>
 	</td>
 	<td>
-		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=maxAge" /></a>
+		<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea/tree/main/boilerplate-canvas/three/canvas.bundle.min.js" title="Get it" target="_blank"><img height="20" loading="eager" alt="&nbsp;pending..." src="https://img.shields.io/github/size/mythemeway/mtw-canvas-blacksea/boilerplate-canvas/three/canvas.bundle.min.js?label=&color=darkred&cacheSeconds=3600" /></a>
 	</td>
 </tr>
 </table>
@@ -129,13 +129,13 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 
 ### [Branch: master](https://github.com/MyThemeWay/mtw-boilerplate-graphics/tree/master "Check it out")
 
-<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" alt="Node.js" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json"/></a>
-<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" alt="esbuild" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/esbuild?label=esbuild&logo=esbuild" /></a>
-<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/three"><img height="26" alt="three.js" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/three?label=three.js&logo=three.js" /></a>
-<a href="https://www.npmjs.com/package/twgl.js" title="Check it out" target="_blank"><img height="26" alt="TWGL" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/twgl.js?label=TWGL"/></a>
-<a href="https://www.npmjs.com/package/glslx" title="Check it out" target="_blank"><img height="26" alt="GLSLX" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/glslx?label=GLSLX"/></a>
-<a href="https://www.npmjs.com/package/prepr" title="Check it out" target="_blank"><img height="26" alt="prepr" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/prepr?label=prepr"/></a>
-<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/terser"><img height="26" alt="terser" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/terser?label=terser" /></a>
+<a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" alt="Node.js" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&cacheSeconds=3600"/></a>
+<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" alt="esbuild" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/esbuild?label=esbuild&logo=esbuild&cacheSeconds=3600" /></a>
+<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/three"><img height="26" alt="three.js" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/three?label=three.js&logo=three.js&cacheSeconds=3600" /></a>
+<a href="https://www.npmjs.com/package/twgl.js" title="Check it out" target="_blank"><img height="26" alt="TWGL" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/twgl.js?label=TWGL&cacheSeconds=3600"/></a>
+<a href="https://www.npmjs.com/package/glslx" title="Check it out" target="_blank"><img height="26" alt="GLSLX" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/glslx?label=GLSLX&cacheSeconds=3600"/></a>
+<a href="https://www.npmjs.com/package/prepr" title="Check it out" target="_blank"><img height="26" alt="prepr" src="https://img.shields.io/github/package-json/dependency-version/sitdisch/esbuild-plugin-glslx/prepr?label=prepr&cacheSeconds=3600"/></a>
+<a title="Check it out" target="_blank" href="https://www.npmjs.com/package/terser"><img height="26" alt="terser" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/terser?label=terser&cacheSeconds=3600" /></a>
 
 ### Note:
 >	* [GLSLX](https://www.npmjs.com/package/glslx "Check it out") & [prepr](https://www.npmjs.com/package/prepr "Check it out") are integrated via [esbuild-plugin-glslx](https://www.npmjs.com/package/@sitdisch/esbuild-plugin-glslx "Check it out")
@@ -179,12 +179,12 @@ To enable local operation of this boilerplate, you can do the following:
 	source ~/$MYSTARTUPFILE
 	```
 3. if your terminal has closed, open it again and continue
-4. execute <a href="https://nodejs.org/en/" title="Explore this" target="_blank"><img alt="nvm install --lts" height="25" align="top" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&color=343941&labelColor=343941&label=nvm install&logo='"/></a> to install [Node.js](https://nodejs.org/en/ "Go there")
+4. execute <a href="https://nodejs.org/en/" title="Explore this" target="_blank"><img alt="nvm install --lts" height="25" align="top" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&color=343941&labelColor=343941&label=nvm install&logo='&cacheSeconds=3600"/></a> to install [Node.js](https://nodejs.org/en/ "Go there")
 5. clone the repository `git clone https://github.com/mythemeway/mtw-boilerplate-graphics` or your fork to your local machine
 6. change your current directory to mtw-boilerplate-graphics `cd mtw-boilerplate-graphics`
 7. run `npm install`
 
-> <b>Note</b>: If you've already installed <a href="https://nodejs.org/en/" title="Explore this" target="_blank"><img alt="Node.js LTS" height="25" align="top" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&color=343941&labelColor=343941"/></a> you only have to do steps 5-7.
+> <b>Note</b>: If you've already installed <a href="https://nodejs.org/en/" title="Explore this" target="_blank"><img alt="Node.js LTS" height="25" align="top" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&color=343941&labelColor=343941&cacheSeconds=3600"/></a> you only have to do steps 5-7.
 
 That's it.
 
