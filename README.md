@@ -12,7 +12,7 @@
 </div>
 <hr>
 
-This boilerplate enables you to develop quickly and easily WebGL canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can embed this bundle as a 3D animated background on a website, for example.
+This boilerplate allows you to quickly and easily develop WebGL canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can embed this bundle as a 3D animated background on a website, for example.
 
 In <a title="Go there" href="#run-development-mode" >development mode</a>, the GLSLX shader files are watched. That means, if you edit them and save your changes, the shaders will be recompiled and reloaded immediately. Feel free to adapt the existing shaders or create a completely new one. If you need inspiration, check out [Shadertoy](https://www.shadertoy.com/browse "Go there") or [GLSL Sandbox](https://glslsandbox.com/ "Go there") for fragment shaders and [Vertexshaderart](https://www.vertexshaderart.com/gallery/1?sort=popular "Go there") for vertex shaders. There you can see what's possible.
 
@@ -127,7 +127,7 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 
 ## | Feature Overview
 
-### [Branch: master](https://github.com/MyThemeWay/mtw-boilerplate-graphics/tree/master "Check it out")
+### [Branch: main](https://github.com/MyThemeWay/mtw-boilerplate-graphics/tree/main "Check it out")
 
 <a href="https://github.com/nodejs/node" title="Check it out" target="_blank"><img height="26" alt="Node.js" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sitdisch/cloud/master/badges/json/nodejs.json&cacheSeconds=3600"/></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/esbuild"><img height="26" alt="esbuild" src="https://img.shields.io/github/package-json/dependency-version/mythemeway/mtw-boilerplate-graphics/esbuild?label=esbuild&logo=esbuild&cacheSeconds=3600" /></a>
@@ -265,6 +265,7 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 ### Note:
 > * `mtw-canvas-new` must have a <b>main.js</b> file
 > * your <b>canvas id attribute </b> setting is only used in production mode; in development mode it is always the default `mtw-canvas`
+> * if you switch/add a canvas in development mode, the result is displayed immediately after saving your changes
 > * to customize the fragment and/or vertex shaders, modify the <b>shaders.glslx</b> files
 > * [mtw-canvas-disks](https://github.com/MyThemeWay/mtw-canvas-disks "Get it") <b>[included] [default]</b>; Fragment shader is based on [CoordSys - intersection](https://www.shadertoy.com/view/lsfGDB "Check it out") [License: [MIT](https://www.shadertoy.com/view/lsfGDB "Go there"); Copyright: ©️ 2013 Inigo Quilez; Changes: made]
 > * [mtw-canvas-malachite](https://github.com/MyThemeWay/mtw-canvas-malachite "Get it") <b>[included]</b>; Fragment shader is based on [Glare of water](https://www.shadertoy.com/view/ttSGz3 "Check it out") [License: [CC&nbsp;BY&nbsp;3.0](https://www.shadertoy.com/view/ttSGz3 "Go there"); Copyright: ©️ 2019 Jan Mróz; Changes: made]
