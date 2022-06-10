@@ -15,9 +15,9 @@
   },
   "dependencies": {
     "@sitdisch/esbuild-plugin-glslx": "0.0.6",
-    "esbuild": "0.14.39",
-    "terser": "5.13.1",
-    "three": "0.140.2",
-    "twgl.js": "4.22.0"
+    "esbuild": "0.14.43",
+    "terser": "5.14.0",
+    "three": "0.141.0",
+    "twgl.js": "4.22.1"
   }
 }
