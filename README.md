@@ -12,7 +12,7 @@
 </div>
 <hr>
 
-This boilerplate allows you to quickly and easily develop WebGL canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can embed this bundle as a 3D animated background on a website, for example.
+This boilerplate allows you to develop quickly and easily WebGL canvas bundles. It has two modes. The result of <a title="Go there" href="#run-production-mode" >production mode</a> is a minimized bundle. You can embed this bundle as a 3D animated background on a website, for example.
 
 In <a title="Go there" href="#run-development-mode" >development mode</a>, the GLSLX shader files are watched. That means, if you edit them and save your changes, the shaders will be recompiled and reloaded immediately. Feel free to adapt the existing shaders or create a completely new one. If you need inspiration, check out [Shadertoy](https://www.shadertoy.com/browse "Go there") or [GLSL Sandbox](https://glslsandbox.com/ "Go there") for fragment shaders and [Vertexshaderart](https://www.vertexshaderart.com/gallery/1?sort=popular "Go there") for vertex shaders. There you can see what's possible.
 

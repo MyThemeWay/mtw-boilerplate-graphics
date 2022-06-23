@@ -43,7 +43,10 @@ async function buildCmd() {
     watch: {
       onRebuild(err, result) {
         if (!(err)) buildThen(result)
-        else toClients(addErrDiv)
+        else {
+          toClients(addErrDiv);
+          console.log(servLog);
+        }
       },
     },
   });
@@ -52,7 +55,7 @@ async function buildCmd() {
 async function buildThen(result) {
   buildResult = result;
   analyzeMetafile(result.metafile).then(msg =>
-    console.log(msg)
+    console.log(msg+servLog)
   );
   toClients(result.outputFiles[0].text)
 }
@@ -64,8 +67,6 @@ function toClients(data) {
 
   clients.forEach(res => res.end("data: reload\n\n"));
   clients.length = 0;
-  
-  console.log(servLog);
 }
 
 async function setListen(tryPort) {
@@ -160,7 +161,7 @@ var buildResult = buildCmd();
 
 server.on('listening', () => {
   address ='http://localhost:'+server.address().port+'/';
-  servLog = "\n  server: \x1b[1;36m"+address+"\x1b[0m\n    exit: \x1b[35mctrl-c\x1b[0m";
+  servLog = "\n  server: \x1b[1;36m"+address+"\x1b[0m\n    exit: \x1b[35mctrl-c\x1b[0m\n";
   buildResult.then(result => buildThen(result));
 });
 
