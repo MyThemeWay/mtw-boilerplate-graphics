@@ -285,7 +285,7 @@ Way 2: `npm run terser`	= with [terser](https://github.com/terser/terser "Check 
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/481295060/f5440180-8316-4816-af25-66b544761ff8" width="804"/></a>
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/481295060/7ec8fd63-8ea7-4bff-a601-4777b509c44f" width="804"/></a>
 <a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-charts&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
 
 </td>
