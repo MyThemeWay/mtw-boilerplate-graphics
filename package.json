@@ -14,10 +14,10 @@
     "terser": "node pro.config.js 1"
   },
   "dependencies": {
-    "@sitdisch/esbuild-plugin-glslx": "0.0.6",
-    "esbuild": "0.15.10",
+    "@sitdisch/esbuild-plugin-glslx": "0.0.8",
+    "esbuild": "0.15.12",
     "terser": "5.15.1",
     "three": "0.145.0",
-    "twgl.js": "5.0.4"
+    "twgl.js": "5.2.0"
   }
 }
