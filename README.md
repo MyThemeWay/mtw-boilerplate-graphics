@@ -162,20 +162,18 @@ Two types of minimized bundles are available for each canvas. One contains <a hr
 
 To enable local operation of this boilerplate, you can do the following:
 
-1. open your terminal and define your shell `MYSHELL` and startup file `MYSTARTUPFILE` in use
+1. open your terminal and define your startup file `MYSTARTUPFILE` in use
 	* e.&nbsp;g. for [Zsh](https://www.zsh.org/ "Go there")
 		```bash
-		MYSHELL="zsh"
 		MYSTARTUPFILE=".zshrc"
 		```
 	* or for pure [Bash](https://www.gnu.org/software/bash/ "Go there")
 		```bash
-		MYSHELL="bash"
 		MYSTARTUPFILE=".bashrc" # or .bash_profile for macOS
 		```
 2. install [nvm](https://github.com/nvm-sh/nvm "Go there") and source your startup file again
 	```bash
-	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | $MYSHELL
+	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
 	source ~/$MYSTARTUPFILE
 	```
 3. if your terminal has closed, open it again and continue
