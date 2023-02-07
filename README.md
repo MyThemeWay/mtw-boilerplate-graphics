@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-
 
 ```html
 <canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
-<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks@0.0.1/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks@0.0.2/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
 ```
 
 #### self hosting
